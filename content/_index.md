@@ -28,18 +28,23 @@ sections:
           company: CERN
           company_url: ''
           company_logo: org-gc
-          location: Geneva
+          location: California
           date_start: '2021-01-01'
           date_end: ''
-          description: Development and usage of the tool \href{https://gitlab.com/plcverif-oss}{PLCverif} to automatically formally verify PLC code.
+          description: |2-
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
         - title: Model Validation Specialist
           company: Deutsche Bank
           company_url: ''
           company_logo: org-x
-          location: Frankfurt
+          location: California
           date_start: '2016-01-01'
           date_end: '2020-12-31'
-          description: Validation of Machine Learning models to estimate credit score by performing different analyses, such as assumptions validation, sensitivity, robustness, and back-testing.
+          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: experience
@@ -54,28 +59,43 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Ph.D. Computer Science
-          company: TU Wien
+        - title: Formal Verification Engineer
+          company: CERN
           company_url: ''
           company_logo: org-gc
-          location: Vienna, Austria
-          date_start: '2022-09-01'
+          location: California
+          date_start: '2021-01-01'
           date_end: ''
-          description: xxx
-        - title: M.Sc. Artificial Intelligence Research
-          company: Menendez Pelayo University
+          description: |2-
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
+        - title: Model Validation Specialist
+          company: Deutsche Bank
           company_url: ''
           company_logo: org-x
           location: California
-          date_start: '2019-09-01'
-          date_end: '2021-19-01'
-          description: xxx
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: collection
-    id: publications
+    id: featured
     content:
-      title: Publications
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
+  - block: collection
+    content:
+      title: Recent Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -92,17 +112,46 @@ sections:
     content:
       title: Contact
       subtitle:
+      text: |-
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: ignacio.lopez [at] tuwien.ac.at
+      email: test@example.org
+      phone: 888 888 88 88
+      appointment_url: 'https://calendly.com'
       address:
-        street: Treitlstrasse 3
-        city: Vienna
-        region: 
-        postcode: '1040'
-        country: Austria
-        country_code: AT
+        street: 450 Serra Mall
+        city: Stanford
+        region: CA
+        postcode: '94305'
+        country: United States
+        country_code: US
+      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      office_hours:
+        - 'Monday 10:00 to 13:00'
+        - 'Wednesday 09:00 to 10:00'
+      contact_links:
+        - icon: twitter
+          icon_pack: fab
+          name: DM Me
+          link: 'https://twitter.com/Twitter'
+        - icon: skype
+          icon_pack: fab
+          name: Skype Me
+          link: 'skype:echo123?call'
+        - icon: video
+          icon_pack: fas
+          name: Zoom Me
+          link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
-      autolink: false
+      autolink: true
+      # Email form provider
+      form:
+        provider: netlify
+        formspree:
+          id:
+        netlify:
+          # Enable CAPTCHA challenge to reduce spam?
+          captcha: false
     design:
       columns: '2'
 ---
