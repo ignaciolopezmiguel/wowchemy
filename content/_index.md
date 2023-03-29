@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2023-03-30
 type: landing
 sections:
   - block: about.avatar
@@ -58,8 +58,8 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Formal Verification Engineer
+          company: CERN
           company_url: ''
           company_logo: org-gc
           location: California
@@ -71,8 +71,8 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Model Validation Specialist
+          company: Deutsche Bank
           company_url: ''
           company_logo: org-x
           location: California
