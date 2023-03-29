@@ -31,20 +31,15 @@ sections:
           location: Geneva
           date_start: '2020-03-01'
           date_end: '2022-08-31'
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+          description: Development and usage of the tool PLCverif to automatically formally verify PLC code.
         - title: Model Validation Specialist
           company: Deutsche Bank
           company_url: ''
           company_logo: org-x
           location: Frankfurt
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          date_start: '2017-11-01'
+          date_end: '2019-12-31'
+          description: Validation of Machine Learning models to estimate credit score by performing different analyses, such as assumptions validation, sensitivity, robustness, and back-testing.
     design:
       columns: '2'
   - block: experience
