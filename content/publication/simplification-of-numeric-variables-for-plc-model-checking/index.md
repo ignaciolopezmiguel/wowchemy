@@ -23,7 +23,7 @@ abstract: "Software model checking has recently started to be applied in the
   Theta), showing beneficial results for binary-decision-diagram-based model
   checkers."
 draft: false
-featured: true
+featured: false
 image:
   filename: featured.png
   focal_point: Smart
