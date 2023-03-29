@@ -54,27 +54,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Formal Verification Engineer
-          company: CERN
+        - title: Ph.D. Computer Science
+          company: TU Wien
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Vienna, Austria
+          date_start: '2022-09-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Model Validation Specialist
-          company: Deutsche Bank
+          description: xxx
+        - title: M.Sc. Artificial Intelligence Research
+          company: Menendez Pelayo University
           company_url: ''
           company_logo: org-x
           location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          date_start: '2019-09-01'
+          date_end: '2021-19-01'
+          description: xxx
     design:
       columns: '2'
   - block: collection
