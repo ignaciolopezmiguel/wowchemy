@@ -27,23 +27,22 @@ sections:
           company: CERN
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Geneva, Switzerland
+          date_start: '2020-03-01'
+          date_end: '2022-08'31'
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+              * Development and usage of the tool PLCverif to automatically formally verify PLC code.
+              * Research work to optimize model-checking algorithms for programs containing complex data types.
         - title: Model Validation Specialist
           company: Deutsche Bank
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Frankfurt am Main, Germany
+          date_start: '2017-11-01'
+          date_end: '2019-12-31'
+          description: |2-
+          * Validation of Machine Learning models
+          * Assumptions validation, sensitivity, robustness, and back-testing
     design:
       columns: '2'
   - block: collection
