@@ -31,12 +31,7 @@ sections:
           location: California
           date_start: '2021-01-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+          description: Development and usage of the tool \href{https://gitlab.com/plcverif-oss}{PLCverif} to automatically formally verify PLC code.
         - title: Model Validation Specialist
           company: Deutsche Bank
           company_url: ''
@@ -44,7 +39,7 @@ sections:
           location: California
           date_start: '2016-01-01'
           date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: Validation of Machine Learning models to estimate credit score by performing different analyses, such as assumptions validation, sensitivity, robustness, and back-testing.
     design:
       columns: '2'
   - block: experience
