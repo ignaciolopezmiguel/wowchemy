@@ -41,8 +41,8 @@ sections:
           date_start: '2017-11-01'
           date_end: '2019-12-31'
           description: |2-
-          * Validation of Machine Learning models
-          * Assumptions validation, sensitivity, robustness, and back-testing
+              * Validation of Machine Learning models
+              * Assumptions validation, sensitivity, robustness, and back-testing
     design:
       columns: '2'
   - block: collection
