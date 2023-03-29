@@ -35,7 +35,7 @@ sections:
         - title: Model Validation Specialist
           company: Deutsche Bank
           company_url: ''
-          company_logo: org-x
+          company_logo: deutsche_bank
           location: Frankfurt
           date_start: '2017-11-01'
           date_end: '2019-12-31'
