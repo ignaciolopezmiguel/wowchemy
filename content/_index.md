@@ -27,7 +27,7 @@ sections:
         - title: Formal Verification Engineer
           company: CERN
           company_url: ''
-          company_logo: org-gc
+          company_logo: cern
           location: Geneva
           date_start: '2020-03-01'
           date_end: '2022-08-31'
