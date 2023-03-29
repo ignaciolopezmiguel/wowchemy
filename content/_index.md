@@ -23,16 +23,16 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Formal Verification Engineer
-          company: CERN
+        - title: Model Validation Specialist
+          company: Deutsche Bank
           company_url: ''
-          company_logo: org-gc
-          location: Geneva, Switzerland
-          date_start: '2020-03-01'
-          date_end: '2022-08'31'
+          company_logo: org-x
+          location: Frankfurt am Main, Germany
+          date_start: '2017-11-01'
+          date_end: '2019-12-31'
           description: |2-
-              * Development and usage of the tool PLCverif to automatically formally verify PLC code.
-              * Research work to optimize model-checking algorithms for programs containing complex data types.
+              * Validation of Machine Learning models
+              * Assumptions validation, sensitivity, robustness, and back-testing
     design:
       columns: '2'
   - block: collection
