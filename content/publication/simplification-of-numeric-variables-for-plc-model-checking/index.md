@@ -25,7 +25,7 @@ abstract: "Software model checking has recently started to be applied in the
 draft: false
 featured: true
 image:
-  filename: featured.jpg
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 date: 2021-11-22T22:24:57.524Z
