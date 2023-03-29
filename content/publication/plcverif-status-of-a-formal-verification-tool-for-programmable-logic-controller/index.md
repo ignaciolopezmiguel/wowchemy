@@ -30,7 +30,7 @@ url_video: https://youtube.com
 title: "PLCverif: Status of a Formal Verification Tool for Programmable Logic
   Controller"
 doi: 10.18429/JACoW-ICALEPCS2021-MOPV042
-featured: true
+featured: false
 tags: []
 projects: []
 image:
