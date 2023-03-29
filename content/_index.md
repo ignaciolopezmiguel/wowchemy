@@ -57,7 +57,7 @@ sections:
         - title: Ph.D. Logic in Computer Science
           company: TU Wien
           company_url: ''
-          company_logo: org-gc
+          company_logo: tu-wien
           location: Vienna
           date_start: '2022-09-01'
           date_end: ''
