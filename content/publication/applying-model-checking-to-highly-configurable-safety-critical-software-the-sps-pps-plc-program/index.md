@@ -13,7 +13,7 @@ abstract: This paper presents how PLCverif, a CERN model check-ing platform, has
 draft: false
 featured: true
 image:
-  filename: ""
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 summary: This paper presents how PLCverif, a CERN model check-ing platform, has
