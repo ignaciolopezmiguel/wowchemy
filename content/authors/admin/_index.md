@@ -1,36 +1,32 @@
 ---
-# Display name
-title: Alice Wu 吳恩達
-
-# Full name (for SEO)
-first_name: Alice
-last_name: Wu
-
-# Status emoji
-status:
-  icon: ☕️
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
+title: Ignacio D. Lopez-Miguel
+role: PhD student
+bio: I am a PhD student at the Technical University of Vienna (TU Wien)
+interests:
+  - Artificial Intelligence
+  - Machine Learning
+  - Answer Set Programming
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=F-rLjtcAAAAJ&hl
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/ilomi/
+  - display:
+      header: false
+    link: https://www.researchgate.net/profile/Ignacio-D-Lopez-Miguel
+    icon: researchgate
+    icon_pack: fab
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
-# Education to show in About widget
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -42,43 +38,13 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+superuser: true
+status:
+  icon: ☕️
+last_name: Wu
 highlight_name: true
+first_name: Alice
+email: ""
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+<p>I am a PhD student at the <a href="<https://informatics.tuwien.ac.at/people/ignacio-lopez>" target="_blank" rel="noopener">Technical University of Vienna (TU Wien)</a> under the supervision of <a href="<http://www.eziobartocci.com/>" target="_blank" rel="noopener">Ezio Bartocci</a> and <a href="<https://www.logic.at/staff/agata/>" target="_blank" rel="noopener">Agata Ciabattoni</a>. My research focuses on safe artificial intelligence, especifically in applying logics to reinforcement learning algorithms. Besides my research, I worked in different international organizations, being the last one the <a href="<https://home.cern/>" target="_blank" rel="noopener">European Organization for Nuclear Research (CERN)</a>.</p>
+<p>I serve as sub-reviewer for <a href="<https://fm2023.isp.uni-luebeck.de/>" target="_blank" rel="noopener">FM2023</a>, <a href="<https://etaps.org/2023/tacas>" target="_blank" rel="noopener">TACAS2023</a>, and artifact reviwer for <a href="<http://www.i-cav.org/2023/>" target="_blank" rel="noopener">CAV2023</a>.</p>
