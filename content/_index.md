@@ -28,7 +28,7 @@ sections:
           company: CERN
           company_url: ''
           company_logo: org-gc
-          location: California
+          location: Geneva
           date_start: '2021-01-01'
           date_end: ''
           description: Development and usage of the tool \href{https://gitlab.com/plcverif-oss}{PLCverif} to automatically formally verify PLC code.
@@ -36,7 +36,7 @@ sections:
           company: Deutsche Bank
           company_url: ''
           company_logo: org-x
-          location: California
+          location: Frankfurt
           date_start: '2016-01-01'
           date_end: '2020-12-31'
           description: Validation of Machine Learning models to estimate credit score by performing different analyses, such as assumptions validation, sensitivity, robustness, and back-testing.
