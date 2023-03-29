@@ -11,7 +11,7 @@ abstract: This paper presents how PLCverif, a CERN model check-ing platform, has
   program, the SPS Per-sonnel Protection System (PPS). The benefits and
   challengesof this verification approach are also discussed.
 draft: false
-featured: true
+featured: false
 image:
   filename: featured.png
   focal_point: Smart
