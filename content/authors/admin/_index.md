@@ -5,6 +5,8 @@ bio: I am a PhD student at the Technical University of Vienna (TU Wien)
 interests:
   - Artificial Intelligence
   - Machine Learning
+  - Algorithms
+  - Formal Verification
   - Answer Set Programming
 social:
   - icon: envelope
