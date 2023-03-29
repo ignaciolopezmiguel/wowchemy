@@ -25,19 +25,25 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Technical University of Vienna (TU Wien)
+    url: https://informatics.tuwien.ac.at/people/ignacio-lopez
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Logic in Computer Science
+      institution: Technical University of Vienna (TU Wien)
+      year: ""
+    - course: M.Sc. Artificial Intelligence Research
+      institution: Menendez Pelayo University
+      year: 2019
+    - course: " B.Sc. Mathematics"
+      institution: National University of Distance Education
+      year: 2026
+    - course: M.Sc. Business Consulting
+      institution: ICADE Business School
+      year: 2015
+    - course: B.Sc. Industrial Electronics and Automation Engineering
+      institution: Valladolid University
+      year: 2015
 superuser: true
 status:
   icon: ☕️
