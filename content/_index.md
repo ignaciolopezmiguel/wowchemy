@@ -28,9 +28,9 @@ sections:
           company: CERN
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Geneva
+          date_start: '2020-03-01'
+          date_end: '2022-08-31'
           description: |2-
               Responsibilities include:
 
@@ -41,7 +41,7 @@ sections:
           company: Deutsche Bank
           company_url: ''
           company_logo: org-x
-          location: California
+          location: Frankfurt
           date_start: '2016-01-01'
           date_end: '2020-12-31'
           description: Taught electronic engineering and researched semiconductor physics.
