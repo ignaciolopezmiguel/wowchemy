@@ -1,7 +1,7 @@
 ---
 title: Simplification of numeric variables for PLC model checking
 publication_types:
-  - "0"
+  - "1"
 authors:
   - admin
 doi: 10.1145/3487212.3487334
