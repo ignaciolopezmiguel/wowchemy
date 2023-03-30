@@ -79,28 +79,28 @@ sections:
           date_end: '2021-09-01'
           description: 
         - title: B.Sc. Mathematics
-          company: Menendez Pelayo University
+          company: National University of Distance Education
           company_url: ''
           company_logo: uimp
           location: Distance learning
-          date_start: '2019-09-01'
-          date_end: '2021-09-01'
+          date_start: '2016-09-01'
+          date_end: ''
           description: 
-        - title: M.Sc. Artificial Intelligence Research
-          company: Menendez Pelayo University
+        - title: M.Sc. Business Consulting
+          company: ICADE Business School
           company_url: ''
           company_logo: uimp
           location: Madrid
-          date_start: '2019-09-01'
-          date_end: '2021-09-01'
+          date_start: '2015-09-01'
+          date_end: '2017-08-31'
           description: 
         - title: B.Sc. Industrial Electronics and Automation Engineering
           company: Valladolid University
           company_url: ''
           company_logo: uimp
           location: Valladolid
-          date_start: '2019-09-01'
-          date_end: '2021-09-01'
+          date_start: '2011-09-01'
+          date_end: '2015-08-31'
           description: 
     design:
       columns: '2'
