@@ -23,4 +23,5 @@ jobs:
         TARGET_BRANCH: main
         TOKEN: ${{ secrets.TOKEN }}
         HUGO_ARGS: '-t academic'
+        GO_VERSION: 1.17
         CNAME: ignaciolopezmiguel.github.io
