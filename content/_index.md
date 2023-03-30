@@ -69,7 +69,7 @@ sections:
           location: Vienna
           date_start: '2022-09-01'
           date_end: ''
-          description: xxx.
+          description: 
         - title: M.Sc. Artificial Intelligence Research
           company: Menendez Pelayo University
           company_url: ''
@@ -77,7 +77,7 @@ sections:
           location: Online
           date_start: '2019-09-01'
           date_end: '2021-09-01'
-          description: xx
+          description: 
         - title: B.Sc. Mathematics
           company: Menendez Pelayo University
           company_url: ''
@@ -85,7 +85,7 @@ sections:
           location: Distance learning
           date_start: '2019-09-01'
           date_end: '2021-09-01'
-          description: xx
+          description: 
         - title: M.Sc. Artificial Intelligence Research
           company: Menendez Pelayo University
           company_url: ''
@@ -93,15 +93,15 @@ sections:
           location: Madrid
           date_start: '2019-09-01'
           date_end: '2021-09-01'
-          description: xx
-        - title: M.Sc. Artificial Intelligence Research
-          company: Menendez Pelayo University
+          description: 
+        - title: B.Sc. Industrial Electronics and Automation Engineering
+          company: Valladolid University
           company_url: ''
           company_logo: uimp
           location: Valladolid
           date_start: '2019-09-01'
           date_end: '2021-09-01'
-          description: xx
+          description: 
     design:
       columns: '2'
   - block: collection
