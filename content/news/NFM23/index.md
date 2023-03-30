@@ -1,5 +1,5 @@
 ---
-title: Paper accepted at the Engineering Applications of Neural Networks conference
+title: Paper accepted at the NASA Formal Methods
 subtitle: Verification of neural networks meets PLC code: An LHC cooling tower control system at CERN
 
 # Summary for listings and search engines
