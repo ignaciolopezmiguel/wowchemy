@@ -105,9 +105,9 @@ sections:
     design:
       columns: '2'
   - block: collection
-    id: new
+    id: news
     content:
-      title: New
+      title: News
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -115,7 +115,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - post
+          - news
         author: ""
         category: ""
         tag: ""
