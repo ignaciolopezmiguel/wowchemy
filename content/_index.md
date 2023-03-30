@@ -78,6 +78,30 @@ sections:
           date_start: '2019-09-01'
           date_end: '2021-09-01'
           description: xx
+        - title: M.Sc. Artificial Intelligence Research
+          company: Menendez Pelayo University
+          company_url: ''
+          company_logo: uimp
+          location: California
+          date_start: '2019-09-01'
+          date_end: '2021-09-01'
+          description: xx
+        - title: M.Sc. Artificial Intelligence Research
+          company: Menendez Pelayo University
+          company_url: ''
+          company_logo: uimp
+          location: California
+          date_start: '2019-09-01'
+          date_end: '2021-09-01'
+          description: xx
+        - title: M.Sc. Artificial Intelligence Research
+          company: Menendez Pelayo University
+          company_url: ''
+          company_logo: uimp
+          location: California
+          date_start: '2019-09-01'
+          date_end: '2021-09-01'
+          description: xx
     design:
       columns: '2'
   - block: collection
