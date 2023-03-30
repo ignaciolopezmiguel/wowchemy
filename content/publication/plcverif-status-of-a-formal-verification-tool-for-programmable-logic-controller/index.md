@@ -16,11 +16,8 @@ author_notes: []
 publication: In the 18th International Conference on Accelerator and Large
   Experimental Physics Control Systems
 summary: ""
-url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
 url_project: ""
 publication_short: In *ICALEPCS'21*
-url_source: https://github.com/wowchemy/wowchemy-hugo-themes
-url_video: https://youtube.com
 title: "PLCverif: Status of a Formal Verification Tool for Programmable Logic
   Controller"
 doi: 10.18429/JACoW-ICALEPCS2021-MOPV042
