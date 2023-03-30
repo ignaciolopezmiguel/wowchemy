@@ -9,6 +9,9 @@ authors:
   - Enrique Blanco Viñuela
   - Juan A. Rodriguez-Aguilar
 doi: 10.1145/3487212.3487334
+publication: In the 19th ACM-IEEE International Conference on Formal Methods and
+  Models for System Design
+publication_short: In *MEMOCODE'21*
 abstract: "Software model checking has recently started to be applied in the
   verification of programmable logic controller (PLC) programs. It works
   efficiently when the number of input variables is limited, their interaction
