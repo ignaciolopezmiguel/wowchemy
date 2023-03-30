@@ -48,10 +48,10 @@ education:
       year: 2015
 superuser: true
 status:
-  icon: ☕️
-last_name: Wu
+  icon: 🚴
+last_name: Lopez-Miguel
 highlight_name: true
-first_name: Alice
+first_name: Ignacio D.
 email: ""
 ---
 I am a PhD student at the <a href="https://informatics.tuwien.ac.at/people/ignacio-lopez" target="_blank" rel="noopener"> Technical University of Vienna (TU Wien)</a> under the supervision of <a href="http://www.eziobartocci.com/" target="_blank" rel="noopener">Ezio Bartocci</a> and <a href="https://www.logic.at/staff/agata/" target="_blank" rel="noopener">Agata Ciabattoni</a>. My research focuses on safe artificial intelligence, especifically in applying logics to reinforcement learning algorithms. Besides my research, I worked in different international organizations, being the last one the <a href="https://home.cern/" target="_blank" rel="noopener">European Organization for Nuclear Research (CERN)</a>.
