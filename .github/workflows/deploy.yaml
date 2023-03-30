@@ -1,26 +1,39 @@
-name: Build and Deploy
+name: Deploy GitHub Pages
 
 on:
   push:
     branches:
       - main
+  pull_request:
 
 jobs:
-  build:
-    name: Deploy
-    runs-on: ubuntu-latest
+  deploy:
+    runs-on: ubuntu-20.04
+    permissions:
+      contents: write
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v1
-      with:
-        submodules: true
+      - uses: actions/checkout@v3
+        with:
+          submodules: true  # Fetch any Git submodules (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
-    - name: Hugo Deploy GitHub Pages
-      uses: benmatselby/hugo-deploy-gh-pages@main
-      env:
-        HUGO_VERSION: 0.88.0
-        TARGET_REPO: ignaciolopezmiguel/ignaciolopezmiguel.github.io
-        TARGET_BRANCH: main
-        TOKEN: ${{ secrets.TOKEN }}
-        GO_VERSION: 1.17
-        CNAME: ignaciolopezmiguel.github.io
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: Build
+        run: hugo --minify
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        # If you're changing the branch from main, 
+        # also change the `main` in `refs/heads/main` 
+        # below accordingly.
+        if: ${{ github.ref == 'refs/heads/main' }}
+        with:
+          github_token: ${{ secrets.TOKEN }}
+          publish_dir: ./public
