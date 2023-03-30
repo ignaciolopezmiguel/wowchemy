@@ -40,6 +40,14 @@ sections:
           date_start: '2017-11-01'
           date_end: '2019-12-31'
           description: Validation of Machine Learning models to estimate credit score by performing different analyses, such as assumptions validation, sensitivity, robustness, and back-testing.
+        - title: Quantitative consultant
+          company: Management Solutions
+          company_url: ''
+          company_logo: management_solutions
+          location: Madrid and London
+          date_start: '2015-09-01'
+          date_end: '2017-09-30'
+          description: Design and development of tools to automate processes, as well as validation of Machine Learning models.
     design:
       columns: '2'
   - block: experience
