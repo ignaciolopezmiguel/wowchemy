@@ -98,7 +98,7 @@ sections:
           company: Valladolid University
           company_url: ''
           company_logo: uva
-          location: Valladolidx
+          location: Valladolid
           date_start: '2011-09-01'
           date_end: '2015-08-31'
           description: 
