@@ -7,18 +7,20 @@ on:
 
 jobs:
   build:
-
+    name: Deploy
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout master
+    - name: Checkout code
       uses: actions/checkout@v1
       with:
         submodules: true
 
     - name: Hugo Deploy GitHub Pages
-      uses: benmatselby/hugo-deploy-gh-pages@master
+      uses: benmatselby/hugo-deploy-gh-pages@main
       env:
-        HUGO_VERSION: 0.68.3
+        HUGO_VERSION: 0.88.0
         TARGET_REPO: ignaciolopezmiguel/ignaciolopezmiguel.github.io
+        TARGET_BRANCH: main
         TOKEN: ${{ secrets.TOKEN }}
+        HUGO_ARGS: '-t academic'
+        CNAME: ignaciolopezmiguel.github.io
