@@ -81,7 +81,7 @@ sections:
         - title: B.Sc. Mathematics
           company: National University of Distance Education
           company_url: ''
-          company_logo: uimp
+          company_logo: uned
           location: Distance learning
           date_start: '2016-09-01'
           date_end: ''
@@ -89,7 +89,7 @@ sections:
         - title: M.Sc. Business Consulting
           company: ICADE Business School
           company_url: ''
-          company_logo: uimp
+          company_logo: icade
           location: Madrid
           date_start: '2015-09-01'
           date_end: '2017-08-31'
@@ -97,7 +97,7 @@ sections:
         - title: B.Sc. Industrial Electronics and Automation Engineering
           company: Valladolid University
           company_url: ''
-          company_logo: uimp
+          company_logo: uva
           location: Valladolid
           date_start: '2011-09-01'
           date_end: '2015-08-31'
