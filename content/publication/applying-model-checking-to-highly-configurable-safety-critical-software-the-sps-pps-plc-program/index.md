@@ -11,6 +11,9 @@ authors:
   - Tomasz Ladzinski
   - Frederic Havart
 doi: 10.18429/JACoW-ICALEPCS2021-WEPV042
+publication: In the 18th International Conference on Accelerator and Large
+  Experimental Physics Control Systems
+publication_short: In *ICALEPCS'21*
 abstract: An important aspect of many particle accelerators is the constant
   evolution and frequent configuration changes that are needed to perform the
   experiments they are designed for. This often leads to the design of
