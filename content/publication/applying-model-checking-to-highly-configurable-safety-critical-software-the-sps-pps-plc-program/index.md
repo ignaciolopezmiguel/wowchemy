@@ -4,7 +4,12 @@ title: "Applying Model Checking to Highly-Configurable Safety Critical Software:
 publication_types:
   - "1"
 authors:
+  - Borja Fernández Adiego
   - admin
+  - Jean-Charles Tournier
+  - Enrique Blanco Viñuela
+  - Tomasz Ladzinski
+  - Frederic Havart
 doi: 10.18429/JACoW-ICALEPCS2021-WEPV042
 abstract: An important aspect of many particle accelerators is the constant
   evolution and frequent configuration changes that are needed to perform the
