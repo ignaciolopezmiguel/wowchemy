@@ -4,6 +4,7 @@ publication_types:
   - "1"
 authors:
   - admin
+  - Borja Fernández Adiego
 doi: 10.1145/3487212.3487334
 abstract: "Software model checking has recently started to be applied in the
   verification of programmable logic controller (PLC) programs. It works
