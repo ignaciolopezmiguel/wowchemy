@@ -1,4 +1,6 @@
 ---
+title: "PLCverif: Status of a Formal Verification Tool for Programmable Logic
+  Controller"
 abstract: PLCverif was first released internally for CERN usage in 2019 and is
   available to everyone since September 2020 via an open source licence. In this
   paper, we will first give an overview of the PLCverif platform capabilities
@@ -12,25 +14,25 @@ publication_types:
   - "1"
 authors:
   - admin
+  - Jean-Charles Tournier
+  - Borja Fernández Adiego
 author_notes: []
+doi: 10.18429/JACoW-ICALEPCS2021-MOPV042
 publication: In the 18th International Conference on Accelerator and Large
   Experimental Physics Control Systems
-summary: ""
-url_project: ""
 publication_short: In *ICALEPCS'21*
-title: "PLCverif: Status of a Formal Verification Tool for Programmable Logic
-  Controller"
-doi: 10.18429/JACoW-ICALEPCS2021-MOPV042
 featured: false
-tags: []
-projects: []
 image:
   caption: ""
   focal_point: ""
   preview_only: false
   filename: featured.png
+summary: ""
+url_project: ""
 date: 2021-10-22T19:49:00.000Z
 url_slides: ""
+tags: []
+projects: []
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 ---
