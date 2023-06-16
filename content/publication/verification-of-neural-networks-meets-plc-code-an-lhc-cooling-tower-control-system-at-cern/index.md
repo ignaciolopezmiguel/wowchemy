@@ -3,7 +3,8 @@ title: "Verification of Neural Networks Meets PLC Code: An LHC Cooling Tower
   Control System at CERN"
 publication_types:
   - "1"
-authors: []
+authors:
+  - admin
 doi: 10.1007/978-3-031-34204-2_35
 publication: 24th International Conference on Engineering Applications of Neural Networks
 publication_short: EANN'23
