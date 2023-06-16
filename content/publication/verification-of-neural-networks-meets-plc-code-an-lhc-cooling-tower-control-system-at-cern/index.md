@@ -6,8 +6,9 @@ publication_types:
 authors:
   - admin
 doi: 10.1007/978-3-031-34204-2_35
-publication: 24th International Conference on Engineering Applications of Neural Networks
-publication_short: EANN'23
+publication: In the 24th International Conference on Engineering Applications of
+  Neural Networks
+publication_short: In *EANN'23*
 abstract: In the last few years, control engineers have started to use
   artificial neural networks (NNs) embedded in advanced feedback control
   algorithms. Its natural integration into existing controllers, such as
