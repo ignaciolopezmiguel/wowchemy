@@ -32,8 +32,8 @@ abstract: PLCverif is an actively developed project at CERN, enabling the formal
 draft: false
 featured: false
 image:
-  filename: ""
-  focal_point: ""
+  filename: image_nfm.jpg
+  focal_point: SMART
   preview_only: false
 date: 2023-06-16T13:32:54.523Z
 ---
