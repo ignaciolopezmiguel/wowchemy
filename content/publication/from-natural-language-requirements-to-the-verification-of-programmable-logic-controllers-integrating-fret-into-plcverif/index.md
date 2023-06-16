@@ -1,6 +1,7 @@
 ---
-title: "From Natural Language Requirements to the Verification of Programmable
-  Logic Controllers: Integrating FRET into PLCverif"
+title: From Natural Language Requirements to the Verification of Programmable
+  Logic Controllers
+subtitle: Integrating FRET into PLCverif
 publication_types:
   - "1"
 authors:
