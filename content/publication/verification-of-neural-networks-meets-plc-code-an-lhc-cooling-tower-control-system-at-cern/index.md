@@ -25,7 +25,7 @@ abstract: In the last few years, control engineers have started to use
 draft: false
 featured: false
 image:
-  filename: ""
+  filename: image_eann.jpg
   focal_point: ""
   preview_only: false
 date: 2023-06-15T13:26:25.462Z
