@@ -1,7 +1,7 @@
 ---
 title: Ignacio D. Lopez-Miguel
 role: PhD student
-avatar_filename: tu_wien__c__nadja_meister_img_1966-removebg-preview.jpg
+avatar_filename: ""
 bio: I am a PhD student at the Technical University of Vienna (TU Wien)
 interests:
   - Artificial Intelligence
