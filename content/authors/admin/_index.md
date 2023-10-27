@@ -49,7 +49,7 @@ education:
       year: 2015
 superuser: true
 status:
-  icon: 🏃🚴🏊
+  icon:
 last_name: Lopez-Miguel
 highlight_name: true
 first_name: Ignacio D.
