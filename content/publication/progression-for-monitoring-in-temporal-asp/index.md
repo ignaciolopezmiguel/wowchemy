@@ -3,11 +3,10 @@ title: Progression for Monitoring in Temporal ASP
 publication_types:
   - "1"
 authors:
+  - Davide Soldà
   - admin
-  - Borja Fernández Adiego
-  - Jean-Charles Tournier
-  - Enrique Blanco Viñuela
-  - Juan A. Rodriguez-Aguilar
+  - Ezio Bartocci
+  - Thomas Eiter
 doi: 10.3233/FAIA372
 publication: In the 26th European Conference on Artificial Intelligence
 publication_short: In *ECAI'23*
