@@ -9,7 +9,7 @@ authors:
   - Enrique Blanco Viñuela
   - Matias Salinas
   - Christine Betz
-doi: https://accelconf.web.cern.ch/icalepcs2023/doi/JACoW-ICALEPCS2023-TUPDP001.html
+doi: 10.18429/JACoW-ICALEPCS2023-TUPDP001
 publication: In the 19th Biennial International Conference on Accelerator and
   Large Experimental Physics Control Systems
 publication_short: In *ICALEPCS'23*
