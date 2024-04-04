@@ -4,6 +4,7 @@ publication_types:
   - "1"
 authors:
   - admin
+doi: https://soremo.library.iit.edu/index.php/CEPE2023/article/view/281
 publication: In the International Conference on Computer Ethics
 publication_short: In *CEPE'23*
 abstract: Over the past few years, artificial intelligence has fueled a
