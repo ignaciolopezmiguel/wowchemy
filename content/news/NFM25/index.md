@@ -1,18 +1,18 @@
 ---
 title: Paper accepted at the NASA Formal Methods Symposium
-subtitle: Formal Verification of PLCs as a Service: A CERN-GSI Safety-Critical Case Study
+subtitle: From Natural Language Requirements to the Verification of Programmable Logic Controllers. Integrating FRET into PLCverif
 
 # Summary for listings and search engines
-summary: Formal Verification of PLCs as a Service: A CERN-GSI Safety-Critical Case Study
+summary: From Natural Language Requirements to the Verification of Programmable Logic Controllers. Integrating FRET into PLCverif
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: '2025-02-14T00:00:00Z'
+date: '2023-03-30T00:00:00Z'
 
 # Date updated
-date: '2025-02-14T00:00:00Z'
+date: '2023-03-30T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -36,7 +36,7 @@ tags:
 
 ## Abstract
 
-The increased technological complexity and demand for software reliability require organizations to formally design and verify their safety-critical programs to minimize systematic failures. Formal methods are recommended by functional safety standards (e.g., by IEC 61511 for the process industry and by the generic IEC 61508) and play a crucial role. Their structured approach reduces ambiguity in system requirements, facilitating early error detection. This paper introduces a formal verification service for PLC (programmable logic controller) programs compliant with functional safety standards, providing external expertise to organizations while eliminating the need for extensive internal training. It offers a cost-effective solution to meet the rising demands for formal verification processes. The approach is extended to include modeling time-dependent, know-how-protected components, enabling formal verification of real safety-critical applications. A case study shows the application of PLC formal verification as a service provided by CERN in a safety-critical installation at the GSI particle accelerator facility.
+PLCverif is an actively developed project at CERN, enabling the formal verification of Programmable Logic Controller (PLC) programs in critical systems. In this paper, we present our work on improving the formal requirements specification experience in PLCverif through the use of natural language. To this end, we integrate NASA’s FRET, a formal requirement elicitation and authoring tool, into PLCverif. FRET is used to specify formal requirements in structured natural language, which automatically translates into temporal logic formulae. FRET’s output is then directly used by PLCverif for verification purposes. We discuss practical challenges that PLCverif users face when authoring requirements and the FRET features that help alleviate these problems. We present the new requirement formalization workflow and report our experience using it on two critical CERN case studies.
 
-## See you in Williamsburg, VA!
+## See you in Houston!
 
