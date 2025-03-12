@@ -5,16 +5,10 @@ subtitle: ""
 publication_types:
   - "1"
 authors:
-  - Zsófi Ádám
   - admin
-  - Anastasia Mavridou
-  - Thomas Pressburger
-  - Marcin Bęś
-  - Enrique Blanco Viñuela
-  - Andreas Katis
-  - Jean-Charles Tournier
-  - Khanh V. Trinh
   - Borja Fernández Adiego
+  - Matias Salinas
+  - Christine Betz
 doi: 10.48550/arXiv.2502.19150
 publication: In the 17th NASA Formal Methods Symposium
 publication_short: In *NFM'25*
