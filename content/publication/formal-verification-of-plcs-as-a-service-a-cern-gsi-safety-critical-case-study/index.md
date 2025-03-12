@@ -31,7 +31,7 @@ abstract: The increased technological complexity and demand for software
 draft: false
 featured: false
 image:
-  filename: ""
+  filename: image_nfm25.jpg
   focal_point: SMART
   preview_only: false
 date: 2025-06-11T19:56:00.000Z
