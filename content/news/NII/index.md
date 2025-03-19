@@ -36,6 +36,6 @@ tags:
 
 ## Abstract
 
-I had the amazing chance to spend three months in Tokyo working together with Ichiro Hasuo's team at the National Institute of Informatics. I worked on deontic logic applied to autonomous driving cars.
+I had the amazing chance to spend three months in Tokyo working together with <a href="https://group-mmm.org/~ichiro/" target="_blank" rel="noopener">Ichiro Hasuo's team</a> at the National Institute of Informatics. I worked on deontic logic applied to autonomous driving cars.
 
 
