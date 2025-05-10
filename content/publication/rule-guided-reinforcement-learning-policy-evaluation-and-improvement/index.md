@@ -3,10 +3,10 @@ title: Rule-Guided Reinforcement Learning Policy Evaluation and Improvement
 publication_types:
   - "1"
 authors:
-  - Davide Soldà
+  - Martin Tappler
   - admin
+  - Sebastian Tschiatschek
   - Ezio Bartocci
-  - Thomas Eiter
 doi: 10.48550/arXiv.2503.09270
 publication: In the 34th International Joint Conference on Artificial Intelligence (IJCAI)
 publication_short: In *IJCAI'25*
