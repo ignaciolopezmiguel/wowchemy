@@ -49,7 +49,7 @@ education:
       year: 2015
 superuser: true
 status:
-  icon:
+  ? icon
 last_name: Lopez-Miguel
 highlight_name: true
 first_name: Ignacio D.
@@ -57,4 +57,4 @@ email: ""
 ---
 I am a Ph.D. student at the <a href="https://informatics.tuwien.ac.at/people/ignacio-lopez" target="_blank" rel="noopener"> Technical University of Vienna (TU Wien)</a> under <a href="http://www.eziobartocci.com/" target="_blank" rel="noopener">Ezio Bartocci</a> and <a href="https://www.logic.at/staff/agata/" target="_blank" rel="noopener">Agata Ciabattoni</a>. My research focuses on combining logic and formal methods with machine learning. I am also really interested in safe artificial intelligence, enabling the usage of machine-learning based systems into safety-critical applications. Besides my research, I worked in different international organizations, the last one being the <a href="https://home.cern/" target="_blank" rel="noopener">European Organization for Nuclear Research (CERN)</a>.
 
-I serve as sub-reviewer for <a href="https://www.qest.org/qest2023/" target="_blank" rel="noopener">QEST2023</a>, <a href="https://spin-web.github.io/SPIN2023/" target="_blank" rel="noopener">SPIN2023</a>, <a href="https://fm2023.isp.uni-luebeck.de/" target="_blank" rel="noopener">FM2023</a>, <a href="https://etaps.org/2023/tacas" target="_blank" rel="noopener">TACAS2023</a>, <a href="https://popl24.sigplan.org/home/VMCAI-2024" target="_blank" rel="noopener">VMCAI2024</a>, and artifact reviewer for <a href="http://www.i-cav.org/2023/" target="_blank" rel="noopener">CAV2023</a>.
+I served as sub-reviewer for <a href="https://www.qest.org/qest2023/" target="_blank" rel="noopener">QEST2023</a>, <a href="https://spin-web.github.io/SPIN2023/" target="_blank" rel="noopener">SPIN2023</a>, <a href="https://fm2023.isp.uni-luebeck.de/" target="_blank" rel="noopener">FM2023</a>, <a href="https://etaps.org/2023/tacas" target="_blank" rel="noopener">TACAS2023</a>, <a href="https://popl24.sigplan.org/home/VMCAI-2024" target="_blank" rel="noopener">VMCAI2024</a>, <a href="https://aaai.org/conference/aaai/aaai-26/" target="_blank" rel="noopener">AAAI2026</a>, and artifact reviewer for <a href="http://www.i-cav.org/2023/" target="_blank" rel="noopener">CAV2023</a>.
