@@ -1,9 +1,9 @@
 ---
 title: Paper accepted at the International Joint Conference on Artificial Intelligence
-subtitle: Rule-Guided Reinforcement Learning Policy Evaluation and Improvement
+subtitle: "LEGIBLE: Rule-Guided Reinforcement Learning Policy Evaluation and Improvement"
 
 # Summary for listings and search engines
-summary: Rule-Guided Reinforcement Learning Policy Evaluation and Improvement
+summary: "LEGIBLE: Rule-Guided Reinforcement Learning Policy Evaluation and Improvement"
 
 # Link this post with a project
 projects: []
