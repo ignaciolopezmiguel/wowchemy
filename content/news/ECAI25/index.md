@@ -1,6 +1,6 @@
 ---
 title: Paper accepted at the European Conference on Artificial Intelligence (ECAI)
-subtitle: OFTEN-DeepRL: On-the-Fly Teaching of Ethical Norms to Deep Reinforcement Learning Agents
+subtitle: "OFTEN-DeepRL: On-the-Fly Teaching of Ethical Norms to Deep Reinforcement Learning Agents"
 
 # Summary for listings and search engines
 summary: On-the-Fly Teaching of Ethical Norms to Deep Reinforcement Learning Agents
