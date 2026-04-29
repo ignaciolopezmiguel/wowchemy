@@ -9,10 +9,10 @@ summary: Talk at CERN on rule learning for RL agents
 projects: []
 
 # Date published
-date: '2026-12-5T00:00:00Z'
+date: '2026-12-05T00:00:00Z'
 
 # Date updated
-date: '2026-12-5T00:00:00Z'
+date: '2026-12-05T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false

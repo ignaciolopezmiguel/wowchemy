@@ -9,10 +9,10 @@ summary: Reinforcement Learning for Autonomous Accelerators
 projects: []
 
 # Date published
-date: '2026-04-1T00:00:00Z'
+date: '2026-04-01T00:00:00Z'
 
 # Date updated
-date: '2026-04-1T00:00:00Z'
+date: '2026-04-01T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
